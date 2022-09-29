@@ -9,7 +9,7 @@
     "ไบนารี่ออฟชั่น",
     "Olymp Trade"
   ],
-  "repository": "https://github.com/ninethana/mymony",
+  "repository": "https://github.com/github/mymony",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
