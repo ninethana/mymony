@@ -1,0 +1,17 @@
+{
+  "name": "mymony",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Olymp Trade-โอลิมเทรด เทรดไบนารี่ิิออฟชั่นกับโบรกที่ดีที่สุด ทำกำไรภายใน 1 นาที Forex, FTT, หุ้น โปรฝากเงิน 50%",
+  "keywords": [
+    "โอลิมเทรด",
+    "สมัครโอลิมเทรด",
+    "ไบนารี่ออฟชั่น",
+    "Olymp Trade"
+  ],
+  "repository": "https://github.com/atom/mymony",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
