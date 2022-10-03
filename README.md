@@ -1,10 +1,21 @@
 
-# โอลิมเทรด - Olymp Trade แพลตฟอร์มการเทรดไบนารี่ ออฟชั่นที่ดีที่สุด ทำกำไรภายใน 1 นาที สมัครง่าย
+# Olymp Trade reviews, Is it scam or Legit , free bonus coupon code for option trade
 
 ## ✨ [สมัครโอลิมเทรด](https://bit.ly/olymp-univer)
 ## ✨ [โอลิมเทรด กับ โรนัลดินโญ่](https://bit.ly/olymp-ronaldinho)
 ## ✨ [ดาวน์โหลดโอลิมเทรด APP](https://bit.ly/olymp-mobile-app)
 
+**ตัวหนา**
+
+> เน้น quote
+`addcode`
+
+- bullet
+- bullet
+
+1. dfad
+2. dafdf
+3. dfafa
 
 ## โอลิมเทรด คืออะไร ?
 
